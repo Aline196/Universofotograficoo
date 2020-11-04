@@ -1,0 +1,30 @@
+.contenedor  {
+    text-align: center;
+    
+}
+
+button {
+    background: #FFB1B3;
+    cursor: pointer;
+    color: black;
+    margin: 0 0 5px;
+    border-radius: 50px;
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+}
+
+button:hover{
+    background: #D7D7D7;
+    transition-duration: 1s;
+
+}
+
+.mensajeBienvenida {
+    text-align: center;
+    font-size: 50px;
+}
+
+
+
+
